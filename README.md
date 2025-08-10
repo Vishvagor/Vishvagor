@@ -1,13 +1,10 @@
-Data Science & Machine Learning enthusiast | Passionate about building real-world projects | Currently focused on predictive modeling and deploying ML pipelines | Open to collaborations and learning
+# Vishva Gor — ML Engineer (Generative AI & Computer Vision)
 
-
+I build and deploy generative AI + CV systems. Recent work:
+- Diffusion/GAN face synthesis — FID ↓20%, training time ↓30% (CUDA)
+- LLM feedback assistant — summarizes 1,000+ entries with Redis-backed memory
+- MLOps: MLflow tracking, API serving (FastAPI/Gradio), Docker
 ---
-
-## 🔗 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishva-gor/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Vishvagor)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:your-vishvagor2015@gmail.com)  
-
----
-
-*Passionate about AI, Data, and Automation! Feel free to connect!* 🚀  
+# Live Demos: 
+# Code: 
+# Contact: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishva-gor/)   •  [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:your-vishvagor2015@gmail.com)  
